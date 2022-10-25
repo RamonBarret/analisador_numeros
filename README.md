@@ -2,8 +2,8 @@
 
 ## Programa - Analisador de Números
 
-### Antes de digitar o valor:
-![preview](/.github/preview-video.mp4)
+### Vídeo - preview:
+![preview](/.github/preview-video.gif)
 
 Projeto desevolvido através dos conhenhecimentos obtidos no cursos lecionados pelo professor Gustavo Guanabara, Curso em Vídeo. Esse projeto consiste em nos fazer pensar e utilizar comandos fundamentais para os aprendizados em JavaScript, tendo um boa base para evoluir nessa linguagem de programação.
 
